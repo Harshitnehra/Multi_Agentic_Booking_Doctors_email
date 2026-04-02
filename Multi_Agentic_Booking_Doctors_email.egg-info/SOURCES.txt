@@ -1,0 +1,6 @@
+setup.py
+Multi_Agentic_Booking_Doctors_email.egg-info/PKG-INFO
+Multi_Agentic_Booking_Doctors_email.egg-info/SOURCES.txt
+Multi_Agentic_Booking_Doctors_email.egg-info/dependency_links.txt
+Multi_Agentic_Booking_Doctors_email.egg-info/requires.txt
+Multi_Agentic_Booking_Doctors_email.egg-info/top_level.txt
